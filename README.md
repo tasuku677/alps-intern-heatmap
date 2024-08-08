@@ -98,6 +98,7 @@ The panel has the following options:
 - 'Image backend endpoint': The URL of the image to be displayed and overlaid with a heatmap, formatted as `http://{server address:}:{port number}/image/`.
    
    Please note that `{server address}` and `{port number}` are variables and should be replaced with the actual server address and port number.
+   
    ![panel-option](/src/img/panel-option.png)   
 
 
