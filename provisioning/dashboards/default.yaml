@@ -1,0 +1,7 @@
+apiVersion: 1
+
+providers:
+  - name: 'alps-heatmap-panel'
+    type: file
+    options:
+      path: /etc/grafana/provisioning/dashboards
