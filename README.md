@@ -4,7 +4,7 @@
 ![car-dodge](/src/img/car-dodge.png)
 
 ## Overview
-This plugin provides a custom panel for Grafana that integrates with Konva.js and heatmap.js to render images with heatmaps. The panel receives data of points and overlays htem as a heatmap on top of a provided image URL.
+This plugin provides a custom panel for Grafana that integrates with Konva.js and heatmap.js to render images with heatmaps. The panel receives data of points and overlays htem as a heatmap on top of a provided image URL. Moreover, it shows also tooltip showing the number of the value at any point when user hovers the mouse or touches the screen.
 
 ## What are Grafana panel plugins? (By Grafana)
 
