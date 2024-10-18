@@ -83,7 +83,7 @@ https://grafana.com/docs/grafana/latest/administration/plugin-management/#instal
    ``` -->
 
 # Dependencies
-This plugin depends pn the following external libraries:
+This plugin depends on the following external libraries:
 
 - [Grafana](https://grafana.com/): Version: `10.4.0` or later: The dashboard and visualization platform where this plugin is used. 
 - [React](https://react.dev/):
