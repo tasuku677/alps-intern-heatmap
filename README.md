@@ -87,7 +87,7 @@ This plugin depends on the following external libraries:
 
 - [Grafana](https://grafana.com/): Version: `10.4.0` or later: The dashboard and visualization platform where this plugin is used. 
 - [React](https://react.dev/):
-A JavaScript library for building user interfaces.
+A TypeScript framework for building user interfaces.
 - [Konva.js](https://konvajs.org/index.html):
 A 2D canvas library for drawing complex shapes.
 - [heatmpa.js](https://www.patrick-wied.at/static/heatmapjs/):
