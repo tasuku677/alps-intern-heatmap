@@ -4,7 +4,15 @@
 ![car-dodge](/src/img/car-dodge.png)
 
 ## Overview
-This plugin provides a custom panel for Grafana that integrates with Konva.js and heatmap.js to render images with heatmaps. The panel receives data of points and overlays htem as a heatmap on top of a provided image URL. Moreover, it shows also tooltip showing the number of the value at any point when user hovers the mouse or touches the screen.
+This Grafana plugin provides a custom panel that integrates Konva.js and heatmap.js to visualize product defect data.
+It overlays heatmaps on top of an image based on input points and displays tooltips showing the corresponding values.
+
+The plugin includes two main modes:
+
+**Input Mode** – Users click on product defect locations, which are then submitted to the database.
+
+**Visualization Mode** – Displays aggregated defect statistics as a heatmap over the product image.
+<img width="527" height="202" alt="image" src="https://github.com/user-attachments/assets/b7b258b2-158d-44ce-80ec-32eaf4928f82" />
 
 ## What are Grafana panel plugins? (By Grafana)
 
